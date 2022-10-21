@@ -1,5 +1,4 @@
--  Hi, I’m Subomi ,
--  I am an iOS developer 
+ Hi, Welcome to my profile , feel free to check my personal site https://subomio.netlify.app
 
 <!---
 Subomi-olagoke/Subomi-olagoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
