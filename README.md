@@ -1,4 +1,4 @@
-I deal with xcode everyday, and i have also started playing around with vim 
+I deal with xcode everyday
 
 <!---
 Subomi-olagoke/Subomi-olagoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
