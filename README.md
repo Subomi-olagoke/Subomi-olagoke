@@ -1,4 +1,4 @@
- Hi, Welcome to my profile , feel free to check my personal site https://subomio.netlify.app
+I deal with xcode everyday, and i have also started playing around with vim 
 
 <!---
 Subomi-olagoke/Subomi-olagoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
